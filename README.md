@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Divy-Dyuti
+- 👋 Hello There!, I’m @Divy-Dyuti
 - 👀 I’m interested in ... Hacking
-- 🌱 I’m currently learning ... Python, C++, Kali Linux
+- 🌱 I’m currently learning ... Python, C++, Kali Linux, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram:_chas.hmish_
 
